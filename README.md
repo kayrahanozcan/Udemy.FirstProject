@@ -10,9 +10,3 @@ Bu proje, C# dilinde değişkenlerin kullanımını örnekleyen basit bir uygula
 - Mantıksal Veri Tipi (`bool`)
 - Karakter Veri Tipi (`char`)
 - Tarih ve Zaman Veri Tipi (`DateTime`)
-
-## Kullanım
-
-1. Projeyi klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
